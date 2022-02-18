@@ -1,0 +1,31 @@
+:root {
+  --yellow: #ffcd3f;
+  --blue: #151e44;
+  --darkblue: #111836;
+  --blue-medium: #0058a3;
+  --related-blue: #007aff;
+  --blue-family: #0077c1;
+  --light-blue: #4595ff;
+  --green: #0a8a00;
+  --green-darker: #087500;
+  --pink: #e00751;
+  --orange: #ffa524;
+}
+.heroIcon {
+  font-size: 70px;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --blue: #151e44;
+  background-color: #151e44;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
